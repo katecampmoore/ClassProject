@@ -1,6 +1,3 @@
-* {
-    box-sizing: border-box;
-}
 
 body {
     margin: 0;
@@ -28,14 +25,13 @@ p {
     font-family: 'Forum', cursive;
 }
 
-
-
 .wrap {
     padding: 2rem; 
     width: 100%;
     max-width: 1000px;
     margin: 0, auto;
 } 
+
 
 .header {
   background-color: #42d4f4;
@@ -45,5 +41,4 @@ p {
   background-size: contain;
   color: #FFF;
   text-align: center;
-  position: fixed;
 }
