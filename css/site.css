@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #42d4f4;
+}
+
+h1 {
+    margin: 2rem;
+    color: black;   
+    font-size: 3em;
+    font-family: 'Meddon', cursive;
+
+}
+
+h2 {
+    margin: 100px;
+    color: black;  
+    font-size: 2rem;
+    font-family: 'Forum', cursive;
+}
+
+p {
+    font-size: 1rem;
+    font-family: 'Forum', cursive;
+}
+
+
+
+.wrap {
+    padding: 2rem; 
+    width: 100%;
+    max-width: 1000px;
+    margin: 0, auto;
+} 
+
+.header {
+  background-color: #42d4f4;
+  background-image: url('../img/couple2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: #FFF;
+  text-align: center;
+  position: fixed;
+}
